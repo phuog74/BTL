@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import "./Header.css";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
-import logo from "../../Assets/logo.webp";
+import logo from "../../Assets/logo.jpg";
 import PersonIcon from "@material-ui/icons/Person";
 import { logout } from "../../actions/userAction";
 import { ToastContainer, toast } from "react-toastify";
@@ -143,7 +143,7 @@ const Header = () => {
                 objectFit: "contain",
                 cursor: "pointer",
               }}
-            /><div className="textLogo"><h1>KIANA</h1></div>
+            /><div className="textLogo"><h1>NHÓM 8</h1></div>
             
           </Link>
         </div>
@@ -175,8 +175,7 @@ const Header = () => {
                 color: "#fff",
               }}
             >
-              Chào mừng đến với Kiana shop...Miễn phí phí ship đối với đơn hàng
-              trên 200.000đ!!!! 
+              Chào mừng khách hàng đã đến với shop bán quần áo của chúng tôi !!!!
             </span>
           
           </div>
@@ -206,7 +205,7 @@ const Header = () => {
           <span
             style={{
               fontFamily: "sans-serif",
-              fontSize: "1rem",
+              fontSize: "1rem"
             }}
           >
             <strong
@@ -216,7 +215,7 @@ const Header = () => {
             >
               Email:
             </strong>{" "}
-            army24062000@gmail.com
+            phuongphi.ktqs@gmail.com
           </span>
         </div>
       </div>

@@ -37,7 +37,7 @@ const Rules = () => {
                 <li>Thừa/ thiếu sản phẩm</li>
                 <li>Sản phẩm không đúng với đơn hàng đã đặt</li>
                 <li>Sản phẩm bị rách bao bì khi nhìn bằng mắt thường</li>
-                <h2>Quý khách hàng có quyền từ chối nhận hàng và gọi ngay đến Hotline 0985 432 542 để được hỗ trợ nhanh nhất.</h2>
+                <h2>Quý khách hàng có quyền từ chối nhận hàng và gọi ngay đến Hotline 0946 601 222 để được hỗ trợ nhanh nhất.</h2>
             </ul>
         </div>
         <Footer />

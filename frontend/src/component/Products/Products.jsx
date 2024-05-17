@@ -12,9 +12,9 @@ import Typography from "@material-ui/core/Typography";
 import MetaData from "../../more/Metadata";
 import BottomTab from "../../more/BottomTab";
 import Carousel from "react-material-ui-carousel";
-import bg from "../../Assets/backgroundHome1.webp";
+import bg from "../../Assets/banner1.jpg";
 
-import bg3 from "../../Assets/backgroundHome2.jpg";
+import bg3 from "../../Assets/banner2.jpg";
 import bg4 from "../../Assets/productBanner/NEW_ARRIVALS.png";
 
 const categories = ["Áo hoodie", "Others"];

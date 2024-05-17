@@ -27,8 +27,8 @@ const About = () => {
               <div className="about__page">
                 {/* 1st verse */}
                 <div className="row flex">
-                  <div className="col__2">
-                    <img src="https://ladigi.vn/wp-content/uploads/2020/04/nana-shop-296883.jpg" />
+                  <div className="col__2" >
+                    <img  src="https://stdecor.net/Upload/images/thiet-ke-shop-thoi-trang-nam.jpg" />
                   </div>
                   <div className="col__2">
                     <div className="meta">
@@ -39,59 +39,12 @@ const About = () => {
                           lineHeight: "1.2",
                         }}
                       >
-                        Xin chào đến với Kiana Shop!!!
+                        Chào mừng đến với Shop Thời Trang của chúng tôi!
                       </span>
                       <p>
-                        Kiana shop là một thương hiệu thời trang Việt Nam dành
-                        cho giới trẻ.
-                        <br />
-                        ĐA DẠNG CÁC GU THỜI TRANG chính là phong cách hiện tại
-                        của Kiana Shop.
-                      </p>
-                      <p>
-                        Đặc biệt, GU TỐI GIẢN - ĐƠN GIẢN - THỂ THAO dành cho tất
-                        cả mọi người, dành cho nhiều lứa tuổi là GU đang được
-                        quan tâm nhất. Sản phẩm chiếm trưng bày lên đến 50% diện
-                        tích cửa hàng. Mọi người dễ dàng chọn được những món
-                        trang phục cơ bản và thiết yếu nhất dành cho mình.
-                      </p>
-                      <p>
-                        <h1>1"</h1> <h2>Kiana shop </h2>mang đến cho khách hàng
-                        những sản phẩm CHẤT LƯỢNG TỐT với GIÁ THÀNH RẺ nhất so
-                        với chất lượng mang lại.
-                        <br />
-                        <br />
-                        YaMe luôn nghiên cứu, phát triển mỗi ngày để mang đến
-                        những sản phẩm đa dạng về chất liệu, nhiều tính năng, đa
-                        dạng giá thành... mang lại nhiều sự lựa chọn hơn cho
-                        khách hàng.
-                      </p>
-                      <p>
-                        <h1>2"</h1>Mang đến những sản phẩm thiết kế đa dạng của
-                        các nhà thiết kế trẻ, bắt kịp xu hướng thời trang thế
-                        giới nhanh chóng nhất để đưa đến với các tín đồ thời
-                        trang Việt Nam.
-                        <br />
-                        <br />
-                        Các sản phẩm thời trang tại YaMe rất đa dạng, có thể
-                        phục vụ nhiều nhu cầu trang phục ở nhiều lứa tuổi khác
-                        nhau. Dù bạn thuộc Gu thời trang nào, YaMe tự tin có thể
-                        mang đến sản phẩm thời trang phù hợp với phong cách.{" "}
-                        <br />
-                        YAME ĐA DẠNG VỀ GU THỜI TRANG, mỗi Gu mang 1 cá tính
-                        khác biệt. YaMe ĐÁP ỨNG NHIỀU NHU CẦU trang phục cho
-                        nhiều lứa tuổi
-                        <br />
-                        Không chỉ với áo thun, YaMe có tất cả các item thời
-                        trang cần thiết. Chỉ cần lượn nhẹ một vòng bạn sẽ trang
-                        bị đủ từ đầu đến chân, từ trong ra ngoài, cho đến phụ
-                        kiện đi kèm phù hợp với mọi nhu cầu: tiệc tùng, lễ hội,
-                        du lịch, đến trường hoặc đi làm..v.v..
-                      </p>
-                      <p>
-                        <h1>3"</h1> <h2>Kiana shop </h2>Luôn duy trì chế độ bảo hành 365 ngày đối với mọi sản phẩm
-                      </p>
-                      
+                      Chào mừng đến với Shop Thời Trang! Chúng tôi cung cấp đa dạng các phong cách, từ tối giản, đơn giản đến thể thao, phù hợp cho mọi lứa tuổi. Cam kết sản phẩm chất lượng cao với giá cả hợp lý, shop đáp ứng nhiều nhu cầu thời trang từ hàng ngày đến tiệc tùng. Chế độ bảo hành 365 ngày cho mọi sản phẩm. Hãy đến và trải nghiệm sự khác biệt tại Shop Thời Trang của chúng tôi!                        <br />
+                        Phong cách TỐI GIẢN - ĐƠN GIẢN - THỂ THAO đang là xu hướng hot nhất hiện nay. Những sản phẩm này chiếm tới 50% diện tích cửa hàng, giúp bạn dễ dàng tìm thấy trang phục thiết yếu và phù hợp với mọi lứa tuổi.
+                      </p>                      
                     </div>
                   </div>
                 </div>

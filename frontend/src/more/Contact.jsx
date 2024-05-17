@@ -24,14 +24,16 @@ const Contact = () => {
       >
         <div className="mapouter">
           <div className="gmap_canvas">
-            <iframe
-              className="gmap_iframe"
-              frameBorder={0}
-              scrolling="no"
-              marginHeight={0}
-              marginWidth={0}
-              src="https://maps.google.com/maps?width=675&height=575&hl=en&q=bitexco&t=&z=15&ie=UTF8&iwloc=B&output=embed"
-            />
+          <iframe
+            width="675"
+            height="575"
+            src="https://maps.google.com/maps?width=675&height=575&hl=en&q=236%20Hoàng%20Quốc%20Việt,%20Học%20viện%20Kỹ%20thuật%20Quân%20sự,%20Cầu%20Giấy,%20Hà%20Nội&t=&z=15&ie=UTF8&iwloc=B&output=embed"
+            frameborder="0"
+            scrolling="no"
+            marginheight="0"
+            marginwidth="0"
+          ></iframe>
+
             <a href="https://formatjson.org/">format json</a>
           </div>
           <style
@@ -65,7 +67,7 @@ const Contact = () => {
               <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"></path>
             </svg>
             <strong>
-              Email: <span>army24062000@gmail.com</span>
+              Email: <span>phuongphi.ktqs@gmail.com</span>
             </strong>
           </div>
           <div
@@ -88,7 +90,7 @@ const Contact = () => {
             <strong>
               Địa chỉ:{" "}
               <span>
-                BITEXCO, Ngô Đức Kế, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh
+              236 Hoàng Quốc Việt, Học viện Kỹ thuật Quân sự, Cầu Giấy, Hà Nội
               </span>
             </strong>
           </div>

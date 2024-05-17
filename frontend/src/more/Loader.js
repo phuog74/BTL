@@ -13,10 +13,7 @@ const Loading = () => {
 
   return (
     <div className="loading">
-      <div class="lds-heart">
-        <div></div>
-       </div>
-       <h1 className="name_shop">...KIANA SHOP...</h1>
+       <h1 className="name_shop">Loading...</h1>
     </div>
   );
 };
